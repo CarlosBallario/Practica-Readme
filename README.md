@@ -1,16 +1,15 @@
 ### Primera Entrega Backend I Coderhouse 
-_______________________________________________________________________________________________________________________________________________________________________________________________________________________
-
+_____________________________________________________________________________________________________
 Este código corresponde a la Primera Entrega del curso de Backend I de CoderHouse, de acuerdo a los requerimientos solicitados en la consigna.
-_________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________
 
-#### Información del Proyecto:
-____________________________________________________________________________________________________________________________________________________________________________________________
+####Información del Proyecto:
+_____________________________________________________________________________________________________
 ##### Autor:
 Carlos Ballario
 
 ##### Descripción:
-Se trata de una aplicación creada en Node.js con el framework Express. Su objetivo es administrar productos y un carritode compras mediante la persistencia en un sistema de archivos. La aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los productos almacenados en un archivo JSON, además de gestionar los carritos de compra. 
+Se trata de una aplicación creada en Node.js con el framework Express. Su objetivo es administrar productos y un carritode compras mediante la persistencia en un sistema de archivos. La aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los productos almacenados en un archivo JSON, además de gestionar los carritos de compra.
 
 ##### Características:
 - Crea, lista, actualiza y elimina productos.
@@ -21,9 +20,10 @@ Se trata de una aplicación creada en Node.js con el framework Express. Su objet
 - Elimina carritos de compra.
 
 #### Endpoints:
+_____________________________________________________________________________________________________
+
 ##### Products
 ###### GET:
 - **Obtener todos los productos:**
-- URL: http://localhost:8080/Compus
-**Obtener un producto por su Id:**
-- URL: http://localhost:8080/Compus/id
+<image src= "/Image/Get-Compus.jpg" alt= "">
+
