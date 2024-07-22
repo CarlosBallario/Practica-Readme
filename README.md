@@ -3,7 +3,7 @@ ________________________________________________________________________________
 Este código corresponde a la Primera Entrega del curso de Backend I de CoderHouse, de acuerdo a los requerimientos solicitados en la consigna.
 _____________________________________________________________________________________________________
 
-####Información del Proyecto:
+#### Información del Proyecto:
 _____________________________________________________________________________________________________
 ##### Autor:
 Carlos Ballario
